@@ -1,0 +1,12 @@
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\bin\Debug\TP_Form_1.exe.config
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\bin\Debug\TP_Form_1.exe
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\bin\Debug\TP_Form_1.pdb
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\bin\Debug\TP_Form_1.xml
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\obj\Debug\TP_Form_1.vbprojAssemblyReference.cache
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\obj\Debug\TP_Form_1.Form1.resources
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\obj\Debug\TP_Form_1.Resources.resources
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\obj\Debug\TP_Form_1.vbproj.GenerateResource.cache
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\obj\Debug\TP_Form_1.vbproj.CoreCompileInputs.cache
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\obj\Debug\TP_Form_1.exe
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\obj\Debug\TP_Form_1.xml
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Form_1\TP_Form_1\obj\Debug\TP_Form_1.pdb
